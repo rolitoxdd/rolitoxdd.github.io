@@ -1,0 +1,12 @@
+.deck-card {
+  border-radius: 15px;
+  width: 250px; 
+  height: 360px;
+  margin-bottom: 10px;
+}
+.deck-card:hover {
+  cursor: pointer;
+}
+.info:hover {
+  transform: scale(1.05);
+}
