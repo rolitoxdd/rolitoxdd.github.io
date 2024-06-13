@@ -1,189 +1,244 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "name": "Rodrigo Álvarez",
+    "label": "Ingeniero de software",
+    "email": "rolo.alv97@gmail.com",
+    "phone": "+569 9548 1898",
+    "image": "",
+    "url": "https://github.com/rolitoxdd",
+    "summary": "Soy Ingeniero Civil en Informática y Telecomunicaciones de la Universidad Diego Portales. Autodidacta, tengo conocimientos de diferentes frameworks alrededor del lenguaje Typescript, y me interesa todo lo relacionado a Linux, contenedores y el mundo de infraestructura y DevOps.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "",
+      "city": "Santiago",
+      "countryCode": "CL",
+      "region": "Chile"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "rodrigo-alvarez-p",
+        "url": "https://www.linkedin.com/in/rodrigo-alvarez-p/"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "rolitoxdd",
+        "url": "https://github.com/rolitoxdd"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Universidad Diego Portales",
+      "position": "Profesor de Estructura de Datos y Algoritmos",
+      "url": "https://eit.udp.cl/",
+      "startDate": "2024-03-01",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
-      "highlights": [
-        "Started the company"
-      ]
+      "summary": "Me encuentro realizando clases en el curso de Estructura de Datos y Algoritmos. Donde se revisan temas como análisis algorítmico y el funcionamiento de estructuras como listas, colas, pilas, árboles y grafos.",
+      "highlights": []
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
+      "name": "Fundación Oftalmológica Los Andes",
+      "position": "Desarrollador full stack",
+      "url": "https://fola.cl/",
+      "startDate": "2024-02-01",
+      "endDate": null,
+      "summary": "He trabajado en el desarrollo de diversas aplicaciones, sobre todo revisando temas relacionados con infraestructura y backend. He usado Terraform, Terragrunt, Docker, Go, Nextjs y servicios de AWS como RDS y ECS, entre otros.",
+      "highlights": []
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
-      "highlights": [
-        "Started the company"
-      ]
+      "name": "PortalTerreno",
+      "position": "Desarrollador full stack",
+      "url": "https://portalterreno.com/",
+      "startDate": "2021-12-01",
+      "endDate": "2024-01-30",
+      "summary": "He trabajado en el desarrollo de la página, participando tanto del frontend usando tecnologías como Nextjs, React, Typescript y Redux, como en el backend, donde utilizamos herramientas de infraestructura como código para definir servicios en AWS, utilizando SQS, DynamoDB, S3, Cognito, Lambdas, ECS, entre otros.",
+      "highlights": []
+    },
+    {
+      "name": "Universidad Diego Portales",
+      "position": "Ayudante de cursos matemáticos",
+      "url": "https://eit.udp.cl/",
+      "startDate": "2019-03-01",
+      "endDate": "2022-07-30",
+      "summary": "Ayudante de múltiples cursos matemáticos dentro de mi facultad: <p> - Ayudante de Álgebra y Geometría </p> <p> - Ayudante de Cálculo I, II y III </p>",
+      "highlights": []
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Universidad Diego Portales",
+      "url": "https://eit.udp.cl/",
+      "area": "Ingeniero Civil en Informática y Telecomunicaciones",
+      "studyType": "Bachelor",
+      "startDate": "2018-03-01",
+      "endDate": "2023-12-30",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
   "skills": [
     {
-      "name": "HTML",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
+      "name": "Python",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Python",
+        "Backend",
+        "Flask"
       ]
     },
     {
       "name": "TypeScript",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Fastify",
+      "level": "Avanzado",
+      "keywords": [
+        "Backend",
+        "OpenAPI"
       ]
     },
     {
       "name": "Node",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        "Desarrollo Web",
+        "Backend",
+        "JavaScript",
+        "Servidor"
       ]
     },
     {
-      "name": "MySQL",
+      "name": "Sql",
       "level": "Avanzado",
       "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
       ]
     },
     {
       "name": "Git",
       "level": "Avanzado",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente"
       ]
     },
     {
       "name": "GitHub",
       "level": "Avanzado",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
       ]
     },
     {
       "name": "Next.js",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
       ]
     },
     {
       "name": "React",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "AWS",
+      "level": "Intermedio",
+      "keywords": [
+        "Infraestructura",
+        "Backend",
+        "Cloud",
+        "Amazon Web Services"
+      ]
+    },
+    {
+      "name": "Terraform",
+      "level": "Intermedio",
+      "keywords": [
+        "Infraestructura",
+        "Infraestructura como código",
+        "IaC",
+        "AWS"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Intermedio",
+      "keywords": [
+        "Despliegue",
+        "Contenedores",
+        "Infraestructura"
+      ]
+    },
+    {
+      "name": "CI/CD",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo",
+        "Integración Continua",
+        "Despliegue Continuo",
+        "Deploy"
+      ]
+    },
+    {
+      "name": "Linux",  
+      "level": "Intermedio",
+      "keywords": [
+        "Sistema Operativo",
+        "Infraestructura",
+        "Servidor",
+        "Debian",
+        "Ubuntu"
       ]
     }
   ],
@@ -194,20 +249,24 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Intermediate"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
   "projects": [
     {
       "name": "mars.codes",
