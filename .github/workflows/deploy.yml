@@ -19,7 +19,7 @@ jobs:
         with:
           node-version: 20.x
 
-      - name: Install marp
+      - name: Install
         run: npm install
 
       - name: Build
